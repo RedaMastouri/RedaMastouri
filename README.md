@@ -15,9 +15,9 @@ Skills: Django / Flask / Tableau / Hadoop / Spark / AWS / GCP / Azure / Python /
 - 👯 I’m looking to collaborate on Solving a Traveling Salesman Problem applied to IoT networks 
 - 📫 How to reach me: https://redamastouri.com/contact/ 
 - 😄 Pronouns: He/Him 
+- 
 -------------------------------------------------------
-[![trophy](https://github-profile-trophy.vercel.app/?username=RedaMastouri)](https://github.com/RedaMastouri/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=RedaMastouri)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
