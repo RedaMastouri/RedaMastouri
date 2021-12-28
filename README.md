@@ -1,4 +1,4 @@
-<img align="center" src="banner-github.jpg">
+<img align="center" src="banner-github.jpg">(https://redamastouri.com/)
 
 ### Reda Mastouri
 #### Data Scientist/ Solution Architect/ AI Researcher
