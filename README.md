@@ -17,6 +17,7 @@ Passionate about data, statistics, and technology. Lover of books and all things
 - 😄 Pronouns: He/Him 
 - 
 -------------------------------------------------------
+## GitHub Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=RedaMastouri&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 -------------------------------------------------------
@@ -145,4 +146,11 @@ More ..
 
 <br></br>
 
+## Few recent projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RedaMastouri&repo=projectEuler&theme=dracula)](https://github.com/RedaMastouri/projectEuler)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RedaMastouri&repo=smart_reddit_app&theme=dracula)](https://github.com/RedaMastouri/smart_reddit_app)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RedaMastouri&repo=DataDrivenAppUsingOptimalTransportAlgorithms&theme=dracula)](https://github.com/RedaMastouri/DataDrivenAppUsingOptimalTransportAlgorithms)
 
