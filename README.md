@@ -1,4 +1,4 @@
-<a href="hhttps://redamastouri.com/" target="_blank" rel="noreferrer"><img alt="portfolio" style="text-align: center;" src="banner-github.jpg" /></a>
+<a href="https://redamastouri.com/" target="_blank" rel="noreferrer"><img alt="portfolio" style="text-align: center;" src="banner-github.jpg" /></a>
 
 
 ### Reda Mastouri
