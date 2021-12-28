@@ -24,7 +24,7 @@ Skills: Django / Flask / Tableau / Hadoop / Spark / AWS / GCP / Azure / Python /
 
 More .. 
 <table>
-  <th>Specality</th>
+  <th>Speciality</th>
   <th>Tools, Frameworks, Programming Languages</th>
   <tr>
     <td>
