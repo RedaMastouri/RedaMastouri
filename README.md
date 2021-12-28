@@ -17,8 +17,7 @@ Skills: Django / Flask / Tableau / Hadoop / Spark / AWS / GCP / Azure / Python /
 - 😄 Pronouns: He/Him 
 - 
 -------------------------------------------------------
-[![trophy](https://github-profile-trophy.vercel.app/?username=RedaMastouri)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=RedaMastouri&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
