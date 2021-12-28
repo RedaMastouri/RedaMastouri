@@ -1,5 +1,4 @@
-<script src="https://cdn.onlymega.com/ckxqebqi6000aq63xrzxq8v20/embed.js?bnTag=" async></script>
-
+<script src="https://cdn.onlymega.com/ckxqebqi6000aq63xrzxq8v20/embed.js?responsive=1&bnTag=" async></script>
 
 ### Hi there 👋
 
