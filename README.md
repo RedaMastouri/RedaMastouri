@@ -16,7 +16,6 @@ Passionate about data, statistics, and technology. Lover of books and all things
 - 📫 How to reach me: https://redamastouri.com/contact/ 
 - 😄 Pronouns: He/Him 
 - 
--------------------------------------------------------
 ## GitHub Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=RedaMastouri&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
