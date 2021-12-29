@@ -23,11 +23,13 @@
 - 👯 I’m looking to collaborate on Solving a Traveling Salesman Problem applied to IoT networks 
 - 📫 How to reach me: https://redamastouri.com/contact/ 
 - 😄 Pronouns: He/Him 
-- 
+
 ## GitHub Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=RedaMastouri&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 -------------------------------------------------------
+<a href="https://redamastouri.com/" target="_blank" rel="noreferrer"><img alt="portfolio" style="text-align: center;" src="animated-banner.gif" /></a>
+
 Skills: Django / Flask / Tableau / Hadoop / Spark / AWS / GCP / Azure / Python / R / Angular / REACT / Panel / Streamlit / JS / HTML / CSS
 
 More .. 
@@ -161,4 +163,3 @@ More ..
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RedaMastouri&repo=DataDrivenAppUsingOptimalTransportAlgorithms&theme=dracula)](https://github.com/RedaMastouri/DataDrivenAppUsingOptimalTransportAlgorithms)
 
-<a href="https://redamastouri.com/" target="_blank" rel="noreferrer"><img alt="portfolio" style="text-align: center;" src="animated-banner.gif" /></a>
