@@ -31,7 +31,7 @@
 <a href="https://redamastouri.com/" target="_blank" rel="noreferrer"><img alt="portfolio" style="text-align: center;" src="animated-banner.gif" /></a>
 
 ## Skills: 
->> Django / Flask / Tableau / Hadoop / Spark / AWS / GCP / Azure / Python / R / Angular / REACT / Panel / Streamlit / JS / HTML / CSS
+> Django / Flask / Tableau / Hadoop / Spark / AWS / GCP / Azure / Python / R / Angular / REACT / Panel / Streamlit / JS / HTML / CSS
 
 More .. 
 <table>
