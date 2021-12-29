@@ -1,4 +1,4 @@
-<a href="https://redamastouri.com/" target="_blank" rel="noreferrer"><img alt="portfolio" style="text-align: center;" src="banimated-banner.gif" /></a>
+<a href="https://redamastouri.com/" target="_blank" rel="noreferrer"><img alt="portfolio" style="text-align: center;" src="animated-banner.gif" /></a>
 
 <a href="https://redamastouri.com/" target="_blank" rel="noreferrer"><img alt="portfolio" style="text-align: center;" src="banner-github.jpg" /></a>
 
