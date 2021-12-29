@@ -158,6 +158,8 @@ More ..
 
 ## Few recent projects
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RedaMastouri&repo=marvis&theme=dracula)](https://github.com/RedaMastouri/marvis)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RedaMastouri&repo=projectEuler&theme=dracula)](https://github.com/RedaMastouri/projectEuler)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RedaMastouri&repo=smart_reddit_app&theme=dracula)](https://github.com/RedaMastouri/smart_reddit_app)
