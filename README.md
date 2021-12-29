@@ -1,4 +1,3 @@
-<a href="https://redamastouri.com/" target="_blank" rel="noreferrer"><img alt="portfolio" style="text-align: center;" src="animated-banner.gif" /></a>
 
 <a href="https://redamastouri.com/" target="_blank" rel="noreferrer"><img alt="portfolio" style="text-align: center;" src="banner-github.jpg" /></a>
 
@@ -162,3 +161,4 @@ More ..
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RedaMastouri&repo=DataDrivenAppUsingOptimalTransportAlgorithms&theme=dracula)](https://github.com/RedaMastouri/DataDrivenAppUsingOptimalTransportAlgorithms)
 
+<a href="https://redamastouri.com/" target="_blank" rel="noreferrer"><img alt="portfolio" style="text-align: center;" src="animated-banner.gif" /></a>
