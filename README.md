@@ -22,6 +22,7 @@
 - 🌱 I’m currently learning Go and Solidity 
 - 👯 I’m looking to collaborate on Solving a Traveling Salesman Problem applied to IoT networks 
 - 📫 How to reach me: https://redamastouri.com/contact/ 
+- 📄 https://resume.brightcoding.dev/redamastouri
 - 😄 Pronouns: He/Him 
 
 ## GitHub Stats
